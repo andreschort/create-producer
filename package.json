@@ -1,0 +1,27 @@
+{
+  "name": "create-producer",
+  "version": "1.0.0",
+  "description": "Helper function for creating a reducer using ImmerJS.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreschort/create-producer.git"
+  },
+  "author": "Andres Chort <andres.chort@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreschort/create-producer/issues"
+  },
+  "homepage": "https://github.com/andreschort/create-producer#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "immer": "^6.0.8"
+  },
+  "devDependencies": {
+    "immer": "^6.0.8",
+    "jest": "^26.0.1"
+  }
+}
