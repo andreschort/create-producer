@@ -18,10 +18,10 @@
   "homepage": "https://github.com/andreschort/create-producer#readme",
   "dependencies": {},
   "peerDependencies": {
-    "immer": "^6.0.8"
+    "immer": "^8.0.1"
   },
   "devDependencies": {
-    "immer": "^6.0.8",
+    "immer": "^8.0.1",
     "jest": "^26.0.1"
   }
 }
